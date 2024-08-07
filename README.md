@@ -1,1 +1,1 @@
-# wedcake
+# wedcake-guide
