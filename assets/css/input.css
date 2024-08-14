@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Ellipse 1 */
+
+
+@font-face {
+    font-family: 'NotoSansThai';
+    src: url(/assets/font/NotoSansThai-Medium.ttf);
+}
+
+body{
+    font-family:"NotoSansThai",sans-serif ;
+}
+
+.full-screen{
+    height: 100vh;
+}
+.hero{
+    background-image:url(/assets/img/cake_013-3-3.jpg) ;
+    background-size:cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
