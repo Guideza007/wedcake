@@ -11,13 +11,14 @@
 
 body{
     font-family:"NotoSansThai",sans-serif ;
+    background-color: #DED2BB;
 }
 
 .full-screen{
     height: 100vh;
 }
 .hero{
-    background-image:url(/assets/img/cake_013-3-3.jpg) ;
+    background-image:url(/assets/img/cake_021-3.jpg) ;
     background-size:cover ;
     background-position: center;
     background-repeat: no-repeat;
